@@ -1,0 +1,7 @@
+.Python
+poetry.lock
+__pycache__
+venv
+.env
+/myenv/*
+
